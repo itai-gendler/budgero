@@ -1,0 +1,13 @@
+scenarioKinds:
+  - id: primary
+    name: Primary
+    description: The established successful path.
+    colorSlot: 1
+  - id: validation
+    name: Validation
+    description: Refused input, refusals of who may act and unavailable controls.
+    colorSlot: 2
+  - id: edge
+    name: Edge
+    description: Conflicts, partial results, unattended behavior and other exceptional outcomes.
+    colorSlot: 3
